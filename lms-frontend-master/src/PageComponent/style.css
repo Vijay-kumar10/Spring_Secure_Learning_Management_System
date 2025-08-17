@@ -1,0 +1,4 @@
+.carousel-item img {
+    height: 400px; /* Set a fixed height for all images */
+    object-fit: cover; /* Ensures images maintain aspect ratio without stretching */
+  }
